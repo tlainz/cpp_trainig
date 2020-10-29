@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602684149 source:c:\users\tlain\documents\c++\sorting_structures\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

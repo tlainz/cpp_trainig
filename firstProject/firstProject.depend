@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602496224 source:c:\users\tlain\documents\c++\firstproject\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1602497117 source:c:\users\tlain\documents\c++\firstproject\stl_max_swap_square.cpp
+	<bits/stdc++.h>
+

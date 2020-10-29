@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602583098 source:c:\users\tlain\documents\c++\pract_exer\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

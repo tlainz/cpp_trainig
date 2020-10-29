@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602500728 source:c:\users\tlain\documents\c++\answer_to_life\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

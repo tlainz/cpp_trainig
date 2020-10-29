@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602768067 source:c:\users\tlain\documents\c++\love_story_finalexercise\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
